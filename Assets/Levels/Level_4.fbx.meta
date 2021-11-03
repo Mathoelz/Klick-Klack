@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 4719a1c1ba4bb1e44870c43c9ab6bf0f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cinema_4D_Editor
+    100002: End
+    100004: Gelenk
+    100006: Gelenk_2
+    100008: Gelenk_3
+    100010: Gelenk_4
+    100012: Gelenk_5
+    100014: Gelenk_5_1
+    100016: Halterung
+    100018: Halterung_2
+    100020: Halterung_3
+    100022: Halterung_4
+    100024: Halterung_5
+    100026: Halterung_6
+    100028: Kopplung
+    100030: Kopplung_2
+    100032: Kopplung_3
+    100034: Kopplung_4
+    100036: Kopplung_5
+    100038: Kopplung_6
+    100040: //RootNode
+    100042: Plate_1
+    100044: Plate_2
+    100046: Start
+    100048: Waage_1
+    100050: Waage_2
+    100052: Waage_3
+    400000: Cinema_4D_Editor
+    400002: End
+    400004: Gelenk
+    400006: Gelenk_2
+    400008: Gelenk_3
+    400010: Gelenk_4
+    400012: Gelenk_5
+    400014: Gelenk_5_1
+    400016: Halterung
+    400018: Halterung_2
+    400020: Halterung_3
+    400022: Halterung_4
+    400024: Halterung_5
+    400026: Halterung_6
+    400028: Kopplung
+    400030: Kopplung_2
+    400032: Kopplung_3
+    400034: Kopplung_4
+    400036: Kopplung_5
+    400038: Kopplung_6
+    400040: //RootNode
+    400042: Plate_1
+    400044: Plate_2
+    400046: Start
+    400048: Waage_1
+    400050: Waage_2
+    400052: Waage_3
+    2000000: Cinema_4D_Editor
+    2100000: No Name
+    2300000: End
+    2300002: Halterung
+    2300004: Halterung_2
+    2300006: Halterung_3
+    2300008: Halterung_4
+    2300010: Halterung_5
+    2300012: Halterung_6
+    2300014: Kopplung
+    2300016: Kopplung_2
+    2300018: Kopplung_3
+    2300020: Kopplung_4
+    2300022: Kopplung_5
+    2300024: Kopplung_6
+    2300026: Plate_1
+    2300028: Plate_2
+    2300030: Start
+    2300032: Waage_1
+    2300034: Waage_2
+    2300036: Waage_3
+    3300000: End
+    3300002: Halterung
+    3300004: Halterung_2
+    3300006: Halterung_3
+    3300008: Halterung_4
+    3300010: Halterung_5
+    3300012: Halterung_6
+    3300014: Kopplung
+    3300016: Kopplung_2
+    3300018: Kopplung_3
+    3300020: Kopplung_4
+    3300022: Kopplung_5
+    3300024: Kopplung_6
+    3300026: Plate_1
+    3300028: Plate_2
+    3300030: Start
+    3300032: Waage_1
+    3300034: Waage_2
+    3300036: Waage_3
+    4300000: Kopplung
+    4300002: Halterung
+    4300004: Kopplung_2
+    4300006: Halterung_2
+    4300008: Kopplung_3
+    4300010: Halterung_3
+    4300012: Kopplung_4
+    4300014: Halterung_4
+    4300016: Kopplung_5
+    4300018: Halterung_5
+    4300020: Kopplung_6
+    4300022: Halterung_6
+    4300024: End
+    4300026: Plate_2
+    4300028: Plate_1
+    4300030: Start
+    4300032: Waage_3
+    4300034: Waage_2
+    4300036: Waage_1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
