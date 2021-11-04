@@ -18,6 +18,7 @@ Afterwards the project was expanded to create a multiplayer game. Instead of rac
 * adjustable difficulty by selecting the number of lives for marathon mode
 * adjustable volume
 * record system that saves your best score for single stages and marathon mode
+* minimap for better orientation in tight spaces
 
 ## Programming Language and Tools
 
