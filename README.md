@@ -20,7 +20,7 @@ Afterwards the project was expanded to create a multiplayer game. Instead of rac
 * record system that saves your best score for single stages and marathon mode
 * minimap for better orientation in tight spaces
 
-## Programming Language and Tools
+## Programming language and tools
 
 * C#
 * Unity 3D
